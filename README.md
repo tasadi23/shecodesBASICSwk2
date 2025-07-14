@@ -54,3 +54,33 @@ Workshop Week 2 Summary — Wrapping it all up
 
 Feeling more confident every day! Ready to take my skills to the next level and keep building awesome interactive pages! 💪✨
 
+# SheCodes BASIC – Week 2 Projects
+
+A collection of beginner-level HTML/CSS/JS projects built during Week 2 of the SheCodes BASIC workshop.
+
+## 📂 Projects
+
+### 🌤 `week2-weather-app`
+> Forecast interface with "Change City" feature using prompt and DOM manipulation.
+
+### 👩‍💻 `week2-intro-app`
+> Basic intro with name and hometown prompts.
+
+### 🧓 `week2-intro-app-v2-age-check`
+> Age-based eligibility check for applying to SheCodes.
+
+### 🕐 `week2-intro-app-v3-time-greeting`
+> Greets user based on time input (Good Morning / Afternoon / Evening).
+
+### 🌍 `week2-intro-app-v4-country-language-check`
+> Detects whether the user speaks Portuguese based on country name input.
+
+## 🧰 Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+💻 All code created as part of SheCodes Week 2 workshop.
